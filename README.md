@@ -2,7 +2,7 @@
 
 > Hook-style behavior reuse -- in any framework!
 
-<center><img src="./assets/ceci-hook.png" width="400"></center>
+<center><img src="https://unpkg.com/ceci-hook/assets/ceci-hook.png" width="400"></center>
 
 ## Why do I want this?
 
